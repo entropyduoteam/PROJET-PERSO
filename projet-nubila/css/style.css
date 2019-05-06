@@ -176,4 +176,12 @@ padding: 32px 16px;
 footer{
   height: 30vh;
   border: 1px solid black;
+  text-align: center;
+
+}
+
+footer h5,p{
+
+  margin-top: 50px;
+  margin-bottom: auto;
 }

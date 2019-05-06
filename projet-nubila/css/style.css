@@ -175,7 +175,7 @@ padding: 32px 16px;
     }
 footer{
   height: 30vh;
-  border: 1px solid black;
+  border-bottom: 1px solid #1976d2;
   text-align: center;
 
 }

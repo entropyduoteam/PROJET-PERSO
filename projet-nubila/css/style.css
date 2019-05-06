@@ -1,1 +1,20 @@
 
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header{
+height: 80vh;
+background-color: #1976d2;
+background: linear-gradient(145deg,#0d47a1,#42a5f5);
+color: #fff;
+transform: skewY(8deg);
+transform-origin: 100%;
+overflow: hidden;
+align-items: center;
+max-height: 560px;
+min-width: 480px;
+}

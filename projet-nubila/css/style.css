@@ -47,7 +47,7 @@ header p{
 
 .menu-nav ul{
     display: inline-block;
-    left:0;
+    left:33%;
     top: 30px;
     position: absolute;
     font-family: 'Ubuntu', sans-serif;
@@ -59,7 +59,7 @@ header p{
 .menu-nav {
   float: right;
   list-style: none;
-  margin-top: 55px;
+
 }
 
 .menu-nav li {
@@ -88,7 +88,7 @@ header p{
 
 position: absolute;
 top: 30%;
-left:45%;
+left:30%;
 text-align: center;
 }
 
